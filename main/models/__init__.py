@@ -1,0 +1,6 @@
+from .gru import DeepfakeEdgeModel_GRU
+from .single_tsm import DeepfakeEdgeModel_STSM
+from .hierarchical_tsm_old import DeepfakeEdgeModel_HTSM
+from .mobilenet import DeepfakeEdgeModel_Mobile
+from .xceptionnet import DeepfakeEdgeModel_Xception
+from .residual_htsm import DeepfakeEdgeModel_Residual_HTSM
